@@ -1,0 +1,22 @@
+{
+  "name": "cy-operation",
+  "version": "0.0.0",
+  "description": "CyOperation",
+  "main": "server.js",
+  "author": "Bibekananda",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Visual",
+    "studio",
+    "Enterprise",
+    "Cypress",
+    "Test"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.4.1",
+    "prettier": "^2.0.5"
+  }
+}
